@@ -1,0 +1,12 @@
+Kivy==1.11.1
+Kivy-Garden==0.1.4
+matplotlib==3.3.1
+pandas==1.0.1
+pyserial==3.4
+python-can==3.3.3
+pytorch
+scipy
+setuptools
+twine
+wheel
+wxPython==4.1.0
